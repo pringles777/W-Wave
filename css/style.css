@@ -1088,7 +1088,7 @@ a {
 .is-open .choices__list--dropdown {
   border: 1px solid var(--color-light_color);
   border-top: none;
-  border-radius: 0 0 10px 10px;
+  border-radius: 10px 10px 10px 10px;
 }
 
 .choices__list--dropdown .choices__item--selectable {
